@@ -1,0 +1,23 @@
+
+
+.floating-btn {
+    position: fixed;
+    z-index: 10;
+    bottom: 00px;
+   /* right: 65px;*/
+   /* margin-left: 25%;
+   margin-right: 25%; */
+    width: 100%;
+    height: 55px;
+    border: none;
+    cursor: pointer;
+    /* border-radius: 50%; */
+    /* background: linear-gradient(45deg,purple,violet); */
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+/* .floating-btn img{
+    width: 35px;
+    height: 35px;
+} */

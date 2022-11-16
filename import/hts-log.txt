@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Nov 2022 21:15:15 at https://www.importili.tn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.importili.tn/ -O1 "C:\Users\MSI\Desktop\importili\import" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:15:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.importili.tn/accueil/css/custom.css
+21:18:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.importili.tn/accueil/js/custom.js
+21:18:07	Error: 	"Not Found" (404) at link https://www.importili.tn/sweetalert2.min.css (from https://www.importili.tn/)
+21:18:07	Error: 	"Not Found" (404) at link https://www.importili.tn/app-assets/css/plugins/extensions/ext-component-sweet-alerts.css (from https://www.importili.tn/)
+21:18:23	Error: 	"Not Found" (404) at link https://www.importili.tn/accueil/tel:+21629297535 (from https://www.importili.tn/)
+21:18:23	Error: 	"Not Found" (404) at link importili.tn/accueil/img/patterns/worn_dots.png (from https://www.importili.tn/accueil/css/theme-elements.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 27 seconds : 594 links scanned, 589 files written (23970227 bytes overall) [16032290 bytes received at 31621 bytes/sec], 11195555 bytes transferred using HTTP compression in 567 files, ratio 26%
+(4 errors, 2 warnings, 0 messages)
